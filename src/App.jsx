@@ -14,7 +14,7 @@ function App() {
       <NavBar/>
       {/* hero component */}
       <Hero/>
-      {/* card component */}
+      {/* cardsection component */}
       <CardsSection/>
     </>
   )

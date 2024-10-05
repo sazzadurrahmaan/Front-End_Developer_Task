@@ -1,3 +1,4 @@
+import { useState } from "react";
 import Card from "./Card";
 
 
@@ -25,13 +26,17 @@ const cardsData = [
 ];
 
 const CardsSection = () => {
+    const [showModal,setShowModal]  = useState(false);
   return (
     <section className="container mx-auto my-8 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
+      
       {cardsData.map((card, index) => (
         <Card
           key={index}
           image={card.image}
           title={card.title}
+          showModal={showModal}
+          onShowModal={setShowModal}
           description={card.description}
         />
       ))}
