@@ -93,6 +93,7 @@ body {
     text-align: center;
     border-radius: 5px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: relative;
 }
 
 .card img {
@@ -109,6 +110,10 @@ body {
 .card p {
     font-size: 1rem;
     color: #666;
+}
+.card .view-details-btn{
+    position: absolute;
+    bottom: 0;
 }
 
 
