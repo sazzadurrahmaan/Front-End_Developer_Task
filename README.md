@@ -71,19 +71,19 @@ Implement a product filter feature using Vanilla JavaScript and React.js, fixing
 
 ### For Responsive Webpage :
 Clone the repository:
-https://github.com/sazzadurrahmaan/Front-End_Developer_Task/responsive-webpage.git
-### go to index.html and open the project in your browser.
+https://github.com/sazzadurrahmaan/Front-End_Developer_Task/tree.responsive-webpage
+### Go to index.html and open the project in your browser.
 
 ### For recreate the webpage with react:
 Clone the repository:
-https://github.com/sazzadurrahmaan/Front-End_Developer_Task/react_task.git
-### got to terminal, and enter with npm run dev
+https://github.com/sazzadurrahmaan/Front-End_Developer_Task/tree/react_task
+### Go to terminal, and enter with npm run dev
 
 ### For Javascript filter problem Debugg and solution
 Clone the repository:
-https://github.com/sazzadurrahmaan/Front-End_Developer_Task/problem-solving-and-debugging.git
-### open the code and run from index.html
+https://github.com/sazzadurrahmaan/Front-End_Developer_Task/tree/problem-solving-and-debugging
+### Open the code and run from index.html
 
 ### For the filter on product with react hooks
-https://github.com/sazzadurrahmaan/Front-End_Developer_Task/product-filter-with-react-hooks
-### Open the terminal on ide, and npm run dev.
+https://github.com/sazzadurrahmaan/Front-End_Developer_Task/tree/product-filter-with-react-hooks
+### Open the terminal on IDE  and npm run dev.
