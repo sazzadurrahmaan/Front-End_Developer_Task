@@ -44,7 +44,7 @@ body {
 
 /* Hero Section */
 .hero-section {
-    height: 60vh;
+    min-height: 70vh;
     background: url('https://plus.unsplash.com/premium_photo-1683133553448-4484a17fa6d4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center center/cover;
     position: relative;
     display: flex;
@@ -54,7 +54,7 @@ body {
 
 .hero-overlay {
     background: rgba(0, 0, 0, 0.5);
-    padding: 2rem;
+    padding: 4rem;
     text-align: center;
     color: #fff;
 }
