@@ -4,9 +4,9 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import NavBar from './components/Navbar'
 import Hero from './components/Hero'
+import CardsSection from './components/CardSection/CardSection'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
@@ -14,6 +14,8 @@ function App() {
       <NavBar/>
       {/* hero component */}
       <Hero/>
+      {/* card component */}
+      <CardsSection/>
     </>
   )
 }
